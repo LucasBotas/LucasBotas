@@ -6,8 +6,8 @@ Eu sou o Lucas Botas 👋
 
 ![ Estatísticas do Lucas GitHub stats ](https://github-readme-stats.vercel.app/api?username=lucasbotas&show_icons=true&theme=dracula)
 
-
 ### Tecnologies 
+
 <div align="" style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,8 +17,8 @@ Eu sou o Lucas Botas 👋
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
-Apaixonado por tecnologia, estudante de desenvolvimento de software.<br>
-
-Entre em contato comigo por e-mail ou nas minhas redes sociais acima:
+#
+Passionate about technology, software development student.<br>
+Contact me via email or on my social networks above : 
 
 lucasfff@gmail.com
