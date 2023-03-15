@@ -1,7 +1,7 @@
 ### Hello, welcome to my Github
 I'm Lucas Botas 👋
 
-[![ Linkedin ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/lucas-de-almeida-mariano-botas-121976168/))
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-de-almeida-mariano-botas-121976168/)
 [![ Instragram ](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_botas)
 
 ![ Estatísticas do Lucas GitHub stats ](https://github-readme-stats.vercel.app/api?username=lucasbotas&show_icons=true&theme=dracula)
