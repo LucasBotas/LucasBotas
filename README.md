@@ -8,7 +8,8 @@ I'm Lucas Botas 👋
 
 ### Tecnologies 
 
-<div align="" style="display: inline_block"><br>
+<div align="" style="display: inline_block"><br/_>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbotas&layout=compact&theme=radical"/>
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
