@@ -1,4 +1,3 @@
-<div align="center">
 ### Hello, welcome to my Github
 I'm Lucas Botas 👋
 
@@ -13,7 +12,7 @@ I'm Lucas Botas 👋
 
                                                                                                                                 
 ### Tecnologies 
-<\div>
+
 <div align="" style="display: inline_block"><br>
   
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
