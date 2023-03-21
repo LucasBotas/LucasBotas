@@ -1,7 +1,7 @@
-<div align="center">
 ### Hello, welcome to my Github
 I'm Lucas Botas 👋
 
+<div align="center">
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-de-almeida-mariano-botas-121976168/)
 [![ Instragram ](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_botas)
 
@@ -14,9 +14,7 @@ I'm Lucas Botas 👋
                                                                                                                            
 ### Tecnologies 
    
-</div>
-  
-<div align="" style="display: inline_block"><br>
+
   
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
