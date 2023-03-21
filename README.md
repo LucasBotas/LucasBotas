@@ -30,3 +30,11 @@ Passionate about technology, software development student.<br>
 Contact me via email or on my social networks above : 
 
 lucasfff@gmail.com
+
+    ##
+  
+  <div align="center">
+ 
+  ![Snake animation](https://github.com/lucasbotas/lucasbotas/blob/output/github-contribution-grid-snake.svg)
+  
+  </div>
