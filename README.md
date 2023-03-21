@@ -8,7 +8,7 @@ I'm Lucas Botas 👋
 <div align="center">
  <a href="https://github.com/LucasBotas">
  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=LucasBotas&show_icons=true&theme=radical"/_>
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBotas&layout=compact&theme=radical"/_>
+ <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBotas&layout=compact&theme=radical"/_>
 
   
  
