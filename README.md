@@ -7,9 +7,7 @@ I'm Lucas Botas 👋
   <a href="https://www.linkedin.com/in/lucas-de-almeida-mariano-botas-121976168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 
 <div align="center">
-  <a href="https://github.com/LucasBotas">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasBotas&show_icons=true&theme=radical"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBotas&layout=compact&theme=radical"/>
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasBotas&show_icons=true&theme=dracula)
 
    
 ### Tecnologies 
