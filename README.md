@@ -25,8 +25,15 @@ I'm Lucas Botas 👋
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
-#
-Passionate about technology, software development student.<br>
+  ##
+<div align = “center” >
+  <h2>🎓 Formação Acadêmica e Certificações🎓</h2>
+ 💻  Tecnólogo em Análise e Desenvolvimento de Sistemas – Universidade Cruzeiro do Sul (UNICSUL) <br>
+ ⚙️  Técnico em Automação Industrial Instituto  Instituto Federal de Educação Ciência e Tecnologia (IFSP)
+</div>
+  
+  ##
+  
 Contact me via email or on my social networks above : 
 
 lucasfff@gmail.com
