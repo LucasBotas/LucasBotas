@@ -33,6 +33,7 @@ I'm Lucas Botas 👋
 </div>
   
   ##
+  Apaixonado por tecnologia , estudante de desenvolvimento de software
   
 Contact me via email or on my social networks above : 
 
