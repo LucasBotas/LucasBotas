@@ -13,7 +13,7 @@ I'm Lucas Botas 👋
 
    
 ### Tecnologies 
-  </div>
+  
 
  
 <div align="center" style="display: inline_block"><br>
@@ -23,10 +23,10 @@ I'm Lucas Botas 👋
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
+
 
   ##
-<div align = “center” >
+
   <h2>🎓 Formação Acadêmica e Certificações🎓</h2>
  💻  Tecnólogo em Análise e Desenvolvimento de Sistemas – Universidade Cruzeiro do Sul (UNICSUL) <br>
  ⚙️  Técnico em Automação Industrial Instituto  Instituto Federal de Educação Ciência e Tecnologia (IFSP)
@@ -34,7 +34,7 @@ I'm Lucas Botas 👋
   
   ##
   Apaixonado por tecnologia , estudante de desenvolvimento de software
-  
-Contact me via email or on my social networks above : 
+   
+   Contact me via email or on my social networks above : 
 
 lucasfff@gmail.com
